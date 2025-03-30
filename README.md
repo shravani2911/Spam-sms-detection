@@ -52,7 +52,7 @@ More adaptable to new spam patterns
 End-to-end text processing
 
 🚀 How to Use
-Clone repo: git clone [your-repo-link]
+Clone repo: git clone [https://github.com/shravani2911/Spam-sms-detection/tree/main]
 
 Install requirements: pip install -r requirements.txt
 
